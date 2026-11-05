@@ -1,0 +1,11 @@
+flight_id,airline,origin,destination,date,departure_time,arrival_time,price,seats_available
+AI101,Air India,Delhi,Mumbai,2026-12-20,06:00,08:10,5400,40
+6E202,IndiGo,Delhi,Mumbai,2026-12-20,09:30,11:45,4650,25
+UK303,Vistara,Delhi,Mumbai,2026-12-20,18:15,20:20,6100,12
+6E404,IndiGo,Mumbai,Delhi,2026-12-22,07:00,09:10,4800,30
+AI505,Air India,Mumbai,Bengaluru,2026-12-21,10:00,11:45,4200,35
+6E606,IndiGo,Bengaluru,Kolkata,2026-12-23,13:30,16:05,5900,20
+SG707,SpiceJet,Delhi,Goa,2026-12-24,11:00,13:35,6300,18
+AI808,Air India,Delhi,Dubai,2026-12-26,21:00,23:30,14500,22
+6E909,IndiGo,Hyderabad,Chennai,2026-12-27,08:20,09:30,3100,45
+UK110,Vistara,Kolkata,Delhi,2027-01-02,17:45,20:10,5600,28
